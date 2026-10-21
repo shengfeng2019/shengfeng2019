@@ -5,7 +5,24 @@
   </picture>
 </p>
 
+<p align="center">
+  <b>王升锋</b> · 产品经理 @ yangcrossing · 📍 Glendora, California
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/shengfeng2012/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-shengfeng2012-0A66C2?logo=linkedin&logoColor=white"></a>
+  <img alt="Open to work" src="https://img.shields.io/badge/Open%20to%20work-Hybrid%20%7C%20Remote-2ea44f">
+</p>
+
 <p align="center">折腾 Cloudflare Workers、博客自动化和 AI 小工具。</p>
+
+## 👋 关于我
+
+- 💼 **产品经理 · yangcrossing**（2016.03 – 至今）
+- 💼 **产品经理 · 北京博雅涵泳教育科技有限公司**（2017.05 – 2020.02，北京）
+- 🎓 北京工商大学 · MBA，会计（2004 – 2006）
+- 🎓 山西财经大学 · 会计学士（1998 – 2002）
+- 🧰 项目管理 · 软件产品管理
 
 ## 🛠 项目
 
